@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/reflexss-cover.png" alt="RefleXSS - Context-Aware Reflected XSS Scanner" width="100%">
+</p>
+
 # RefleXSS - Advanced Async XSS Scanner
 
 RefleXSS is a powerful, fully asynchronous, and context-aware Reflected Cross-Site Scripting (XSS) scanner. It is designed to reduce false positives by analyzing the context of the reflection (e.g., checking for escaping, HTML entities, and URL encoding).
